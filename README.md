@@ -1,6 +1,8 @@
 # Spotify-Clone-hud
 Clone da interface inicial do Spotify Web
 
+Segue link da Página para vizualizarem: https://pedross11.github.io/Spotify-Clone-hud/
+
 
 /* PROJETO - CLONE DA INTERFACE SPOTIFY WEB (AINDA EM DESENVOLVIMENTO)*/
 
